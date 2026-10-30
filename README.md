@@ -66,7 +66,7 @@ gcc main.c -o imc
 ./imc
 ```
 
-O repositório também contém o arquivo `main.exe` já compilado para Windows. Para usar a versão mais recente do código-fonte, compile `main.c) com os comandos acima.
+O repositório também contém o arquivo `main.exe` já compilado para Windows. Para usar a versão mais recente do código-fonte, compile `main.c` com os comandos acima.
 
 ## Como usar
 
